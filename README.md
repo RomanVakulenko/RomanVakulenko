@@ -13,7 +13,7 @@
 ### Мои проекты
 * [**YouTubeDownloader**](https://github.com/RomanVakulenko/YouTubeDownloader) - загружает видео с YouTube в обход (API не позволяет). Проигрывает оффлайн, можно удалить. Стек:  **AVKit**, **MVVM+С**, **FileManager**, **Photos**, **UserDefaults**, **XCDYouTubeKit**, **YouTubeKit** 
 * [**Time_to_travel**](https://github.com/RomanVakulenko/Time_to_travel) - стягивает данные по авиабилетам с Aviasales API, оттображает в коллекции, лайк, переход на детальный экран билета. Стек: **MVVM+С**, **RestAPI**, **HTTP**, **Collection**, **Custom Cell**
-* [**My Habits**](https://github.com/RomanVakulenko/Habits) - Добавление, правка, удаление привычки, отслеживаение по дням, ссылка на источник в интернет. Стек: **MVVM+C**, **NSAttributedString & NSMutableAttributedString**, **TabBar**, **Collection**, **Table**, **Header**, **Progress**, **Alerts**, **KingFisher**, **UserDefaults**, **DatePicker**, **ColorPicker**, **Delegate**, **Figma**
+* [**Habits**](https://github.com/RomanVakulenko/Habits) - Добавление, правка, удаление привычки, отслеживаение по дням, ссылка на источник в интернет. Стек: **MVVM+C**, **NSAttributedString & NSMutableAttributedString**, **TabBar**, **Collection**, **Table**, **Header**, **Progress**, **Alerts**, **KingFisher**, **UserDefaults**, **DatePicker**, **ColorPicker**, **Delegate**, **Figma**
 * [**BirdGame**](https://github.com/RomanVakulenko/BirdGame/tree/main) - птичка летает вверх/вниз, собирает вишни-очки, уворачивается от монстров. Стек: **SpiteKit**, **GameplayKit**, **SKScene**, **SKPhysicsContactDelegate**, **Sounds**, **Effects**
 
 * [**File Manager**](https://github.com/bolgar-danchenko/FileManager) - Домашнее задание по темам **FileManager**, **UserDefaults**, **Keychain**, **Face ID**
