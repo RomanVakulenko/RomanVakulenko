@@ -9,7 +9,7 @@
 * Многопоточность: GCD, async await (Operation)
 * Сеть: Rest API (Alamofire, Moya)
 * Хранение данных: UserDefaults, FileManager, Keychain, Realm, Firebase (CoreData, SwiftData)
-* Доп: GitFlow, SnapKit, KingFisher, SwiftLint, CoreLocation, MapKit, AVKit...
+* Доп: использую conventionalcommits, GitFlow, SnapKit, KingFisher, SwiftLint, CoreLocation, MapKit, AVKit...
 
 ### Мои проекты
 * [**YouTubeDownloader**](https://github.com/RomanVakulenko/YouTubeDownloader) - загружает видео с YouTube в обход (API не позволяет), проверяет было ли скачано, показывает прогресс загрузки, уведомления, запрашивает разрешения. Проигрывает оффлайн, можно удалить. Стек:  **AVKit**, **MVVM+С**, **Dependencies injection using protocols**, **FileManager**, **Photos**, **UserDefaults**, **Downloading Progress**, **State Machine**, **Alerts**, **XCDYouTubeKit**, **YouTubeKit** 
@@ -35,7 +35,7 @@ I'm **Roman**, iOS Developer.
 * Concurrensy: GCD, async await (Operation)
 * Client-Server: Rest API (Alamofire, Moya)
 * DataStorage & Databases: UserDefaults, FileManager, Keychain, Realm, Firebase (CoreData, SwiftData)
-* Additional: GitFlow, SnapKit, KingFisher, SwiftLint, CoreLocation, MapKit, AVKit...
+* Additional: use conventionalcommits, GitFlow, SnapKit, KingFisher, SwiftLint, CoreLocation, MapKit, AVKit...
 
 
 ### My Projects
