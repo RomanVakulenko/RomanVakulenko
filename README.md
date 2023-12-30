@@ -2,7 +2,7 @@
 ### Приветствую! 👋 
 
 ### Мой стек
-* UIKit, AutoLayout
+* UIKit, AutoLayout, SOLID, DRY, KISS - YAGNI
 * Архитектуры: MVVM + Coordinator, VIPER (MVC MVP)
 * Инъекция зависимостей with protocols
 * Менеджеры зависимостей: SPM, CocoaPods
@@ -28,7 +28,7 @@
 I'm **Roman**, iOS Developer.
 
 ### My Stack
-* UIKit, AutoLayout
+* UIKit, AutoLayout, SOLID, DRY, KISS - YAGNI
 * Architectures: MVVM + Coordinator, VIPER (MVC MVP)
 * Dependency managers: SPM, CocoaPods
 * Dependencies injection using protocols
