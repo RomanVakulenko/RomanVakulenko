@@ -2,13 +2,12 @@
 ### Приветствую! 👋 
 
 ### Мой стек
-* UIKit, AutoLayout, SOLID, DRY, KISS - YAGNI
-* Архитектуры: MVVM + Coordinator, VIPER (MVC MVP)
-* Инъекция зависимостей with protocols
-* Менеджеры зависимостей: SPM, CocoaPods
-* Многопоточность: GCD, async await (Operation)
-* Сеть: Rest API (Alamofire, Moya)
-* Хранение данных: UserDefaults, FileManager, Keychain, Realm, Firebase (CoreData, SwiftData)
+
+* UIKit
+* MVVM + Coordinator, VIPER (MVC MVP)
+* GCD, async await (Operation)
+* Rest API, Alamofire (Moya), JSON
+* Keychain, Realm, Firebase (CoreData)
 * Доп: использую conventionalcommits, GitFlow, SnapKit, KingFisher, SwiftLint, CoreLocation, MapKit, AVKit...
 
 ### Мои проекты
@@ -28,13 +27,11 @@
 I'm **Roman**, iOS Developer.
 
 ### My Stack
-* UIKit, AutoLayout, SOLID, DRY, KISS - YAGNI
-* Architectures: MVVM + Coordinator, VIPER (MVC MVP)
-* Dependency managers: SPM, CocoaPods
-* Dependencies injection using protocols
-* Concurrensy: GCD, async await (Operation)
-* Client-Server: Rest API (Alamofire, Moya)
-* DataStorage & Databases: UserDefaults, FileManager, Keychain, Realm, Firebase (CoreData, SwiftData)
+* UIKit
+* MVVM + Coordinator, VIPER (MVC MVP)
+* GCD, async await (Operation)
+* Rest API, Alamofire (Moya), JSON
+* Keychain, Realm, Firebase (CoreData)
 * Additional: use conventionalcommits, GitFlow, SnapKit, KingFisher, SwiftLint, CoreLocation, MapKit, AVKit...
 
 
