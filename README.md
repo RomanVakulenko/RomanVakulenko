@@ -7,7 +7,7 @@
 * MVVM + Coordinator, VIPER (MVC MVP)
 * GCD, async await (Operation)
 * Rest API, Alamofire (Moya)
-* Keychain, Realm, Firebase (CoreData)
+* Security(Keychain), Realm, Firebase (CoreData)
 * Сonventionalcommits, GitFlow, SnapKit, KingFisher, SwiftLint, CoreLocation, MapKit, AVKit...
 
 ### Мои проекты
@@ -31,7 +31,7 @@ I'm **Roman**, iOS Developer.
 * MVVM + Coordinator, VIPER (MVC MVP)
 * GCD, async await (Operation)
 * Rest API, Alamofire (Moya)
-* Keychain, Realm, Firebase (CoreData)
+* Security(Keychain), Realm, Firebase (CoreData)
 * Conventionalcommits, GitFlow, SnapKit, KingFisher, SwiftLint, CoreLocation, MapKit, AVKit...
 
 
