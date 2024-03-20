@@ -4,10 +4,10 @@
 ### Мой стек
 
 * UIKit
-* MVVM + Coordinator, VIPER (MVC MVP)
+* MVVM + Coordinator, VIPER, MVC (MVP)
 * GCD, async await (Operation)
 * Rest API, Alamofire (Moya)
-* Security(Keychain), Realm, Firebase (CoreData)
+* Keychain, Realm, Firebase (CoreData)
 * Сonventionalcommits, GitFlow, SnapKit, KingFisher, SwiftLint, CoreLocation, MapKit, AVKit...
 
 ### Мои проекты
@@ -28,11 +28,11 @@ I'm **Roman**, iOS Developer.
 
 ### My Stack
 * UIKit
-* MVVM + Coordinator, VIPER (MVC MVP)
+* MVVM + Coordinator, VIPER, MVC (MVP)
 * GCD, async await (Operation)
 * Rest API, Alamofire (Moya)
-* Security(Keychain), Realm, Firebase (CoreData)
-* Conventionalcommits, GitFlow, SnapKit, KingFisher, SwiftLint, CoreLocation, MapKit, AVKit...
+* Keychain, Realm, Firebase (CoreData)
+* Сonventionalcommits, GitFlow, SnapKit, KingFisher, SwiftLint, CoreLocation, MapKit, AVKit...
 
 
 ### My Projects
