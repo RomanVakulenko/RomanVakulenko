@@ -4,13 +4,15 @@
 ### Мой стек
 
 * UIKit
-* CLEAN, VIPER, MVVM + Coordinator, MVC (MVP)
-* GCD, async await (Operation)
+* CLEAN(год проект на нем писали), VIPER, MVVM + Coordinator, MVC (MVP)
+* Swinject, GCD, async await (Operation)
 * Rest API, Alamofire (Moya)
-* Keychain, Realm, Firebase (CoreData)
+* CoreData, Realm, Firebase, Keychain
 * Сonventionalcommits, GitFlow, SnapKit, KingFisher, SwiftLint, CoreLocation, MapKit, AVKit...
 
 ### Мои проекты (жми и увидишь описание и скрины)
+* [**ToDoVIPERCoreData**](https://github.com/RomanVakulenko/ToDoVIPERCoreData) - на VIPER сделал на несколько вечеров тестовое, хорошо абстрагирован сетевой слой и БД. Стек: **DI in constructor & properties**, **VIPER**, **CoreData**, **DifferenceKit**, **Reusable**, **SnapKit**
+* [**CoffeeByVakulenkoVIPER**](https://github.com/RomanVakulenko/CoffeeByVakulenkoVIPER) - логин, отображение на карте, удаленность от юзера, меню, заказ/корзина. Стек: **CoreLocation**, **VIPER**, **YandexMapsMobile**, **Security (KeyChain)**, **Swagger API (POST & GET requests)**, **EndPont, Factory (ModuleFactoryProtocol, URLRequestFactoryProtocol), Singleton (KeyChain, User Defaults), Alerts, ActivityIndicator**
 * [**YouTubeDownloader**](https://github.com/RomanVakulenko/YouTubeDownloader) - загружает видео с YouTube в обход (API не позволяет), проверяет было ли скачано, показывает прогресс загрузки, уведомления, запрашивает разрешения. Проигрывает оффлайн, можно удалить. Стек:  **AVKit**, **MVVM+С**, **FileManager**, **Photos**, **Downloading Progress**, **State Machine**, **Alerts**, **XCDYouTubeKit**, **YouTubeKit** 
 * [**Time_to_travel**](https://github.com/RomanVakulenko/Time_to_travel) - стягивает данные по авиабилетам с Aviasales API, оттображает в коллекции, лайк, переход на детальный экран билета. Стек: **MVVM+C**, **async await**, **Aviasales API**, **EndPont**, **Alerts**, **Generic**, **Delegate**, **Animation**, **Singleton**
 * [**Habits**](https://github.com/RomanVakulenko/Habits) - Добавление, правка, удаление привычки, отслеживаение по дням, ссылка на источник в интернет. Стек: **MVVM+C**, **NSAttributedString & NSMutableAttributedString**, **Header**, **Progress**, **Alerts**, **KingFisher**, **DatePicker** & **ColorPicker**, **Delegate**, **Figma**
