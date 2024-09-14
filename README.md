@@ -8,6 +8,7 @@
 * Swinject, GCD, async await (Operation)
 * Rest API, Alamofire (Moya)
 * CoreData, Realm, Firebase, Keychain
+* XCTest
 * Сonventionalcommits, GitFlow, SnapKit, KingFisher, SwiftLint, CoreLocation, MapKit, AVKit...
 
 ### Мои проекты (жми и увидишь описание и скрины)
