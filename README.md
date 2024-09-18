@@ -4,15 +4,18 @@
 ### Мой стек
 
 * UIKit
-* CLEAN(год проект на нем писали), VIPER, MVVM + Coordinator, MVC (MVP)
+* CLEAN(последнее время использую), VIPER, MVVM + Coordinator, MVC (MVP)
 * Swinject, GCD, async await (Operation)
 * Rest API, Alamofire (Moya)
-* CoreData, Realm, Firebase, Keychain
+* CoreData, Realm, Firebase, Security ( Keychain )
 * XCTest
-* Сonventionalcommits, GitFlow, SnapKit, KingFisher, SwiftLint, CoreLocation, MapKit, AVKit...
+* Сonventionalcommits, GitFlow,
+* SnapKit, KingFisher, SwiftLint,
+* CoreLocation, MapKit, AVKit...
 
 ### Мои проекты (жми и увидишь описание и скрины)
-* [**ToDoVIPERCoreData**](https://github.com/RomanVakulenko/ToDoVIPERCoreData) - на VIPER сделал на несколько вечеров тестовое, хорошо абстрагирован сетевой слой и БД. Стек: **DI in constructor & properties**, **VIPER**, **XCTest** **CoreData**, **DifferenceKit**, **Reusable**, **SnapKit**
+* [**KinopoiskLoginAndSearch**](https://github.com/RomanVakulenko/KinopoiskLoginAndSearch) - CLEAN, реализован кастомный менеджер кеша, хорошо абстрагирован сетевой слой и БД. Стек: **DI in constructor & properties**, **CLEAN**, **Security** **CoreData**, **DifferenceKit**, **Reusable**, **SnapKit**
+* [**ToDoVIPERCoreData**](https://github.com/RomanVakulenko/ToDoVIPERCoreData) - на VIPER сделал за несколько вечеров тестовое, хорошо абстрагирован сетевой слой и БД. Стек: **DI in constructor & properties**, **VIPER**, **XCTest** **CoreData**, **DifferenceKit**, **Reusable**, **SnapKit**
 * [**People**](https://github.com/RomanVakulenko/People) -  1 из 20человек (заявок было 600) прошел в компанию KODE, выполнив тестовое, но не поехал в Калининград. Стек: **MVVM + Coordinator**, **skeleton**, **Alerts**, **NVActivityIndicatorView - custom spinner, search, filter, sort, details screen**
 **Реализовал согласно макету: https://www.figma.com/design/GRRKONipVClULsfdCAuVs1/KODE-Trainee-DEV-Весна%6024?node-id=30-20141&node-type=symbol&t=erS9nBON07OPLYUy-0**
 * [**CoffeeByVakulenkoVIPER**](https://github.com/RomanVakulenko/CoffeeByVakulenkoVIPER) - логин, отображение на карте, удаленность от юзера, меню, заказ/корзина. Стек: **CoreLocation**, **VIPER**, **YandexMapsMobile**, **Security (KeyChain)**, **Swagger API (POST & GET requests)**, **EndPont, Factory (ModuleFactoryProtocol, URLRequestFactoryProtocol), Singleton (KeyChain, User Defaults), Alerts, ActivityIndicator**
