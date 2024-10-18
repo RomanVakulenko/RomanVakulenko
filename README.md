@@ -7,7 +7,7 @@
 * CLEAN(последнее время использую), VIPER, MVVM + Coordinator, MVC (MVP)
 * Swinject, GCD, Concurrency / async await (Operation)
 * Rest API, URLSession, Alamofire (Moya)
-* CoreData, Realm, Firebase, Security ( Keychain )
+* CoreData, Realm, Firebase, Security Keychain
 * SnapKit, KingFisher, SwiftLint,
 * XCTest
 * Сonventionalcommits, GitFlow,
