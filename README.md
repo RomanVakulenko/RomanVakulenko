@@ -4,7 +4,7 @@
 ### Мой стек
 
 * UIKit
-* CLEAN(последнее время использую), VIPER, MVVM + Coordinator, MVC (MVP)
+* CLEAN, VIPER, MVVM + Coordinator, MVC (MVP)
 * Swinject, GCD, Concurrency / async await (Operation)
 * Rest API, URLSession, Alamofire (Moya)
 * CoreData, Realm, Firebase, Security Keychain
